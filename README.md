@@ -3,7 +3,7 @@
 
 ### About this method
 
-Gradient boosting statistical analysis method is a machine learning methodology which uses a decision tree approach to take into account relationships between variables and outcome to generate coefficients/weights.
+Gradient boosting estimation is a machine learning methodology which uses a decision tree approach to take into account relationships between variables and outcome to generate coefficients/weights.
 For more information about the method, including how is being used, when and by who, please refer to the Methods toolbox documentation on our [FutureNHS workspace](https://future.nhs.uk/DataMeth/grouphome).
 
 
