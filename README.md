@@ -47,7 +47,3 @@ When the model is run, it creates a list with the model objects and it writes ou
 
 Felix Asamoah, Senior Analytical Manager - felix.asamoah1@nhs.net 
 
-
-### License
-
-This project is licensed under the [MIT License](LICENSE.md).
