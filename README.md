@@ -15,7 +15,7 @@ Installation of R and Alteryx package: "gbm"
 ### Summary of the code
 
 This code is developing the weights for each variables using R software. The code reads and prepares the data and then constructs the command string. Then it defines the type of target / distribution of the loss function and determines the preferred number of trees in the model, as well as further model specifications. 
-When the model is run, it creates a list with the model objects and it writes out the results. Finally, it creates and exports a few plots.
+When the model is run, it creates a list with the model objects and it writes out the results. Finally, summary weights are created for each variable which will be used in the Euclidean distance estimation.
 
 
 ### Data sources
