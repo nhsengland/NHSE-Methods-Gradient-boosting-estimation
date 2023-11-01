@@ -1,4 +1,4 @@
-## NHSEI Methods: Gradient boosting estimation
+## NHSE Methods: Gradient boosting estimation
 
 
 ### About this method
